@@ -1,0 +1,35 @@
+_repo: Life-of-Octavia-Hill-as-Told-in-Her-Letters_61159
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Hill, Octavia
+    birthdate: 1838
+    deathdate: 1912
+    gutenberg_agent_id: '50556'
+    url: http://www.gutenberg.org/2009/agents/50556
+    wikipedia: https://en.wikipedia.org/wiki/Octavia_Hill
+  editor:
+    agent_name: Maurice, C. Edmund (Charles Edmund)
+    alias: Maurice, Charles Edmund
+    birthdate: 1843
+    deathdate: 1927
+    gutenberg_agent_id: '40070'
+    url: http://www.gutenberg.org/2009/agents/40070
+description: ''
+gutenberg_issued: '2020-01-13'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '61159'
+  lccn: '13012880'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Hill, Octavia, 1838-1912'
+- !lcc 'HD'
+- !lcsh 'Working class -- Dwellings'
+- !lcsh 'Working class -- England -- London'
+- GITenberg
+title: Life of Octavia Hill as Told in Her Letters
+url: http://www.gutenberg.org/ebooks/61159
